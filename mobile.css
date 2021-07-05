@@ -12,8 +12,8 @@
 p{
     padding-right: 15px;
 }
-.myself .button{
-    margin-left: 250px;
+.myself .btn{
+    text-align: center;
 }
 .myself img{
     width: 90%;
