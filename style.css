@@ -46,3 +46,46 @@ body{
     background-position:right;
     margin-top: 150px;  
 } 
+#experience{
+    background-image: url('./image/exp-bg.png');
+    background-repeat: no-repeat;
+    background-position: left;
+    padding-bottom: 150px;;
+    margin-top: 150px;
+    margin-bottom: 30px;
+}
+#experience h1{
+   font-size: 50px;
+}
+h2{
+    font-size: 30px;
+}
+.myself-rl{
+    display: flex;
+}
+.myself-rl h1{
+    font-size: 45px;
+}
+.myself-rl h3{
+    color: orange;
+}
+.left{
+    width: 40%;
+    margin-right: 5%;
+    margin-left: 5%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+#left{
+    border-left: 7px solid;
+    border-image: linear-gradient(orange, tomato);
+    border-image-slice: 1;
+}
+#right{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+}
