@@ -1,3 +1,4 @@
+
 #container{
    display: flex;
    flex-direction: column;
@@ -9,8 +10,12 @@
     padding-bottom: 20px;
 }
 .myself .button{
-    display: block;
-    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.myself .bb{
+    margin-left: 200px;
+    margin-right: 200px;
 }
 .myself img{
     width: 90%;
@@ -24,4 +29,5 @@
 }
 #experience h1{
     padding-left: 5px;
+    overflow: hidden;
 }

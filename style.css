@@ -33,7 +33,7 @@ body{
   padding: 15px 20px;
   color: #333;
   letter-spacing: 1.5px;
-  border-radius: 25px;    
+  border-radius: 25px;  
 }
 .button:hover{
     background-image: linear-gradient(orange, tomato);
