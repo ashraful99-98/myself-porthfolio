@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+#container{
+    display: flex;
+    background-image: url('./image/top-banner.png');
+    background-repeat: no-repeat;
+}
+.myself{
+    width: 50%;
+    padding-left: 3%;
+    padding-top: 20px;
+    padding-right: 3%;
+}
+.myself h1{
+    font-size: 40px;
+}
+.myself p{
+    line-height: 30px;
+    padding-bottom: 20px;
+}
+.myself h1 .ash{
+   color: orange ;
+}
+.myself img{
+    width: 80%;
+}
+.button{
+  text-decoration: none;
+  background-image: #fff;
+  padding: 15px 20px;
+  color: #333;
+  letter-spacing: 1.5px;
+  border-radius: 25px;    
+}
+.button:hover{
+    background-image: linear-gradient(orange, tomato);
+    color: #fff;
+}
+#dream{
+    display: flex;
+    background-image: url('./image/dream-bg.png');
+    background-repeat: no-repeat;
+    background-position:right;
+    margin-top: 150px;  
+} 
