@@ -9,8 +9,11 @@
     width: 100%;
     padding-bottom: 20px;
 }
+p{
+    padding-right: 15px;
+}
 .myself .button{
-    margin-left: 300px;
+    margin-left: -115px;
     margin-right: 300px;
 }
 .myself .bb{
